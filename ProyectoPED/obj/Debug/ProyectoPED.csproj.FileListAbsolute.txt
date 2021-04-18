@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\bin\Debug\Interop.WMPLib.dll
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\obj\Debug\Interop.WMPLib.dll
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Form1.resources
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\USUARIO\Desktop\PED 2021\Proyecto PED2021\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.pdb
