@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PVS.MediaPlayer">
+      <HintPath>..\..\Proyecto PED2021\PVS.MediaPlayer\PVS.MediaPlayer .NET 5.0\PVS.MediaPlayer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -75,6 +78,8 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Varios\Crystal Italic1.ttf" />
+    <None Include="Varios\WingDings3a.ttf" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -97,6 +102,19 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Varios\Dial Green.png" />
+    <Content Include="Varios\Dial Normal 2.png" />
+    <Content Include="Varios\Dial Red 2.png" />
+    <Content Include="Varios\Dial Red.png" />
+    <Content Include="Varios\fontinfo.txt" />
+    <Content Include="Varios\Media Normal.ico" />
+    <Content Include="Varios\Media Paused.ico" />
+    <Content Include="Varios\Media Playing.ico" />
+    <Content Include="Varios\Recorder Recording.ico" />
+    <Content Include="Varios\UDBLOGO.jpg" />
+    <Content Include="Varios\VU Meter.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
